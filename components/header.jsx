@@ -33,7 +33,7 @@ export default async function Header() {
             height={80}
             className=" py-1  "
           />
-        </Link>
+        </Link>  
 
         {/* Action Buttons */}
         <div className="flex items-center space-x-2 md:space-x-4">
